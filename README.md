@@ -1,2 +1,2 @@
-initialisatiob du fichier
+initialisation du fichier
 coucou!
